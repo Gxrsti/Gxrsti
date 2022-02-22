@@ -1,8 +1,8 @@
-### Hey, I'm Diogo Rodrigues!
+### Hey, I'm Gersti!
 
-I work as a web designer front-end developer with UI/UX design skills (front-end designer). I´m based in Dublin, Ireland.
+I work as a web designer front-end developer with UI/UX design skills (front-end designer). I´m based in Nuremburg, Germany.
 
-Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+Since 2020 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 ### What I'm focusing on 👨‍💻
 Currently improving my React skills: NextJS, Gatsby JS and React Native.
@@ -18,4 +18,4 @@ Find me elsewhere 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=whie&link=https://linkedin.com/gxrsti)] 
 [![Twitter Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=whie&link=https://linkedin.com/gxrsti)] 
 
-**[diogorodrigues.dev](https://www.lyme.gg/)**
+**[lyme.gg](https://www.lyme.gg/)**
